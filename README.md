@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalnegi428
 - 👀 I’m interested in MERN Stack Web Developmenet and UI/UX Design
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on MERN PROJECTS and UX Projects.
 - 📫 How to reach me https://www.linkedin.com/in/vishalnegi428/
 
